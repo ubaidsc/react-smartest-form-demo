@@ -6,7 +6,7 @@ export default defineConfig({
   plugins: [react()],
   build: {
     rollupOptions: {
-      external: ['react-smartest-form'],
+      external: ['./node_modules/react-smartest-form'],
     },
   },
 })
