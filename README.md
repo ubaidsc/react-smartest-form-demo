@@ -1,8 +1,12 @@
-# React + Vite
+React Smart Form
+A React component library for building smart, validated forms with built-in validation using React Hook Form and Yup. Features type-safe components, customizable validation rules, and accessible form elements.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+🔒 Built-in validation with Yup schemas
+📝 Type-safe form components
+♿ Accessible form elements
+🎨 Customizable styling
+💪 TypeScript support
+🔄 Form state management with React Hook Form
+Installation
+npm install react-smart-form
